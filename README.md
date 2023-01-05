@@ -1,2 +1,3 @@
 # image detection with @tensorflow-model
-you can upload image and modal translate what the image is ?!
+you can upload image and modal translate what the image is...
+See You Soon!
